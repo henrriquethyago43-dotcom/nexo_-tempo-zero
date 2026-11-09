@@ -1,0 +1,6 @@
+{
+  "name": "NEXO: TEMPO ZERO",
+  "description": "Jogo 2D de ação e plataforma futurista com mecânica de Eco Temporal, combate cibernético e controles para Android e PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
